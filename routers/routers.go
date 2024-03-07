@@ -3,7 +3,7 @@ package routers
 import (
 	"net/http"
 
-	"github.com/MauricioUhlig/mvc/controllers"
+	"github.com/MauricioUhlig/mvc_go/controllers"
 )
 
 func Router() {

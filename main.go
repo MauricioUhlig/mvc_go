@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/MauricioUhlig/mvc/routers"
+	"github.com/MauricioUhlig/mvc_go/routers"
 )
 
 func main() {

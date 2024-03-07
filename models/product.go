@@ -3,7 +3,7 @@ package models
 import (
 	"errors"
 
-	"github.com/MauricioUhlig/mvc/db"
+	"github.com/MauricioUhlig/mvc_go/db"
 )
 
 type Product struct {

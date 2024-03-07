@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"text/template"
 
-	"github.com/MauricioUhlig/mvc/models"
+	"github.com/MauricioUhlig/mvc_go/models"
 )
 
 var tmpl = template.Must(template.ParseGlob("templates/*.html"))
